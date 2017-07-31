@@ -1,0 +1,37 @@
+ Volume in drive C is SOE-Disk
+ Volume Serial Number is 32B0-7F42
+
+ Directory of C:\Users\nrao01
+
+07/06/2017  08:45 AM    <DIR>          .
+07/06/2017  08:45 AM    <DIR>          ..
+07/05/2017  02:25 PM    <DIR>          .config
+07/05/2017  02:18 PM                40 .node_repl_history
+01/13/2017  03:33 PM    <DIR>          .oracle_jre_usage
+07/05/2017  02:29 PM             2,678 app.css
+07/05/2017  02:29 PM               481 app.js
+07/05/2017  02:29 PM    <DIR>          assets
+07/05/2017  02:29 PM               197 bsconfig.json
+06/20/2017  11:17 AM    <DIR>          Contacts
+07/06/2017  08:21 AM    <DIR>          Desktop
+07/05/2017  01:18 PM    <DIR>          Documents
+07/06/2017  08:35 AM    <DIR>          Downloads
+06/20/2017  11:17 AM    <DIR>          Favorites
+07/05/2017  02:29 PM    <DIR>          function-file
+07/06/2017  08:35 AM    <DIR>          Hackathon
+07/05/2017  02:29 PM             3,261 index.html
+06/20/2017  11:17 AM    <DIR>          Links
+07/06/2017  08:45 AM                 0 listmyfolder.txt
+06/07/2017  08:04 AM    <DIR>          mcafee dlp quarantined files
+07/05/2017  03:18 PM            23,894 mood color spectrum.jpg
+06/20/2017  11:17 AM    <DIR>          Music
+07/05/2017  02:33 PM    <DIR>          node_modules
+07/05/2017  02:29 PM               469 package.json
+06/20/2017  11:17 AM    <DIR>          Pictures
+07/05/2017  02:29 PM            15,962 resource.html
+06/20/2017  11:17 AM    <DIR>          Saved Games
+06/20/2017  11:17 AM    <DIR>          Searches
+07/05/2017  03:40 PM             7,347 tone-analyzer-manifest.xml
+06/20/2017  11:17 AM    <DIR>          Videos
+              10 File(s)         54,329 bytes
+              20 Dir(s)  56,481,869,824 bytes free
